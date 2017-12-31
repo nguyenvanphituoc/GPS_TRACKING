@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "384498503630",
+    "firebase_url": "https://gpsgroup10.firebaseio.com",
+    "project_id": "gpsgroup10",
+    "storage_bucket": "gpsgroup10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384498503630:android:e68d6807030ae52e",
+        "android_client_info": {
+          "package_name": "com.trongtri.hcmute.myapplication2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384498503630-gi0h6bd4a7kb7vlg4fj9oa31r7vm2e0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trongtri.hcmute.myapplication2",
+            "certificate_hash": "f724a303dc2197a503ded84501aed188b0839e78"
+          }
+        },
+        {
+          "client_id": "384498503630-a42gh7340g1vqa8mu629v74uo11onssh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAerUqtvmXAF47wBpMvVnJe4H-U9CzqQF0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384498503630-a42gh7340g1vqa8mu629v74uo11onssh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
